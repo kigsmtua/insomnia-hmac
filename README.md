@@ -1,2 +1,3 @@
 # insomnia-hmac
-Sign HMAC requests using insomnia
+
+HMAC  authentication for Insomnia
